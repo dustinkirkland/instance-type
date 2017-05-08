@@ -24,7 +24,7 @@ Other cloud instance type contributions are welcome.  Please create a new tab-de
 
 ## License
 
-Copyright 2017 Dustin Kirkland <dustin.kirkland@gmail.com>
+Copyright 2017 @DustinKirkland
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at:
 
