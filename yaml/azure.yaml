@@ -1,145 +1,145 @@
 A10:
-  cpu: '56'
-  mem: '1817'
-A11:
-  cpu: '112'
-  mem: '1817'
-A5:
-  cpu: '14'
-  mem: '490'
-A6:
-  cpu: '28'
-  mem: '1000'
-A7:
-  cpu: '56'
-  mem: '2040'
-A8:
-  cpu: '56'
-  mem: '1817'
-A9:
-  cpu: '112'
-  mem: '1817'
-ExtraLarge:
-  cpu: '14'
-  mem: '2040'
-ExtraSmall:
-  cpu: '0.768'
-  mem: '20'
-Large:
-  cpu: '7'
-  mem: '1000'
-Medium:
-  cpu: '3.5'
-  mem: GB
-Small:
-  cpu: '1.75'
-  mem: '225'
-Standard_A1_v2:
-  cpu: '2'
-  mem: '10'
-Standard_A2_v2:
-  cpu: '4'
-  mem: '20'
-Standard_A2m_v2:
-  cpu: '16'
-  mem: '20'
-Standard_A4_v2:
   cpu: '8'
-  mem: '40'
-Standard_A4m_v2:
-  cpu: '32'
-  mem: '40'
-Standard_A8_v2:
+  mem: '56'
+A11:
   cpu: '16'
-  mem: '80'
+  mem: '112'
+A5:
+  cpu: '2'
+  mem: '14'
+A6:
+  cpu: '4'
+  mem: '28'
+A7:
+  cpu: '8'
+  mem: '56'
+A8:
+  cpu: '8'
+  mem: '56'
+A9:
+  cpu: '16'
+  mem: '112'
+ExtraLarge:
+  cpu: '8'
+  mem: '14'
+ExtraSmall:
+  cpu: '1'
+  mem: '0.768'
+Large:
+  cpu: '4'
+  mem: '7'
+Medium:
+  cpu: '2'
+  mem: '3.5'
+Small:
+  cpu: '1'
+  mem: '1.75'
+Standard_A1_v2:
+  cpu: '1'
+  mem: '2'
+Standard_A2_v2:
+  cpu: '2'
+  mem: '4'
+Standard_A2m_v2:
+  cpu: '2'
+  mem: '16'
+Standard_A4_v2:
+  cpu: '4'
+  mem: '8'
+Standard_A4m_v2:
+  cpu: '4'
+  mem: '32'
+Standard_A8_v2:
+  cpu: '8'
+  mem: '16'
 Standard_A8m_v2:
-  cpu: '64'
-  mem: '80'
+  cpu: '8'
+  mem: '64'
 Standard_D1:
-  cpu: '3.5'
-  mem: '50'
+  cpu: '1'
+  mem: '3.5'
 Standard_D11:
-  cpu: '14'
-  mem: '100'
+  cpu: '2'
+  mem: '14'
 Standard_D11_v2:
-  cpu: '14'
-  mem: '100'
+  cpu: '2'
+  mem: '14'
 Standard_D12:
-  cpu: '28'
-  mem: '200'
+  cpu: '4'
+  mem: '28'
 Standard_D12_v2:
-  cpu: '28'
-  mem: '200'
+  cpu: '4'
+  mem: '28'
 Standard_D13:
-  cpu: '56'
-  mem: '400'
+  cpu: '8'
+  mem: '56'
 Standard_D13_v2:
-  cpu: '56'
-  mem: '400'
+  cpu: '8'
+  mem: '56'
 Standard_D14:
-  cpu: '112'
-  mem: '800'
+  cpu: '16'
+  mem: '112'
 Standard_D14_v2:
-  cpu: '112'
-  mem: '800'
+  cpu: '16'
+  mem: '112'
 Standard_D15_v2:
-  cpu: '140'
-  mem: 1,000
+  cpu: '20'
+  mem: '140'
 Standard_D1_v2:
-  cpu: '3.5'
-  mem: '50'
+  cpu: '1'
+  mem: '3.5'
 Standard_D2:
-  cpu: '7'
-  mem: '100'
+  cpu: '2'
+  mem: '7'
 Standard_D2_v2:
-  cpu: '7'
-  mem: '100'
+  cpu: '2'
+  mem: '7'
 Standard_D3:
-  cpu: '14'
-  mem: '200'
+  cpu: '4'
+  mem: '14'
 Standard_D3_v2:
-  cpu: '14'
-  mem: '200'
+  cpu: '4'
+  mem: '14'
 Standard_D4:
-  cpu: '28'
-  mem: '400'
+  cpu: '8'
+  mem: '28'
 Standard_D4_v2:
-  cpu: '28'
-  mem: '400'
+  cpu: '8'
+  mem: '28'
 Standard_D5_v2:
-  cpu: '56'
-  mem: '800'
+  cpu: '16'
+  mem: '56'
 Standard_G1:
-  cpu: '28'
-  mem: '384'
+  cpu: '2'
+  mem: '28'
 Standard_G2:
-  cpu: '56'
-  mem: '768'
+  cpu: '4'
+  mem: '56'
 Standard_G3:
-  cpu: '112'
-  mem: 1,536
+  cpu: '8'
+  mem: '112'
 Standard_G4:
-  cpu: '224'
-  mem: 3,072
+  cpu: '16'
+  mem: '224'
 Standard_G5:
-  cpu: '448'
-  mem: 6,144
+  cpu: '32'
+  mem: '448'
 Standard_H16:
-  cpu: '112'
-  mem: '2000'
+  cpu: '16'
+  mem: '112'
 Standard_H16m:
-  cpu: '224'
-  mem: '2000'
+  cpu: '16'
+  mem: '224'
 Standard_H16mr:
-  cpu: '224'
-  mem: '2000'
+  cpu: '16'
+  mem: '224'
 Standard_H16r:
-  cpu: '112'
-  mem: '2000'
+  cpu: '16'
+  mem: '112'
 Standard_H8:
-  cpu: '56'
-  mem: '1000'
+  cpu: '8'
+  mem: '56'
 Standard_H8m:
-  cpu: '112'
-  mem: '1000'
+  cpu: '8'
+  mem: '112'
 
