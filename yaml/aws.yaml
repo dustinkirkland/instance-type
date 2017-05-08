@@ -1,0 +1,229 @@
+c1.medium:
+  cpu: '2'
+  mem: '1.7'
+c1.xlarge:
+  cpu: '8'
+  mem: '7'
+c3.2xlarge:
+  cpu: '8'
+  mem: '15'
+c3.4xlarge:
+  cpu: '16'
+  mem: '30'
+c3.8xlarge:
+  cpu: '32'
+  mem: '60'
+c3.large:
+  cpu: '2'
+  mem: '3.75'
+c3.xlarge:
+  cpu: '4'
+  mem: '7.5'
+c4.2xlarge:
+  cpu: '8'
+  mem: '15'
+c4.4xlarge:
+  cpu: '16'
+  mem: '30'
+c4.8xlarge:
+  cpu: '36'
+  mem: '60'
+c4.large:
+  cpu: '2'
+  mem: '3.75'
+c4.xlarge:
+  cpu: '4'
+  mem: '7.5'
+cc2.8xlarge:
+  cpu: '32'
+  mem: '60.5'
+cg1.4xlarge:
+  cpu: '16'
+  mem: '22.5'
+cr1.8xlarge:
+  cpu: '32'
+  mem: '244'
+d2.2xlarge:
+  cpu: '8'
+  mem: '61'
+d2.4xlarge:
+  cpu: '16'
+  mem: '122'
+d2.8xlarge:
+  cpu: '36'
+  mem: '244'
+d2.xlarge:
+  cpu: '4'
+  mem: '30.5'
+f1.16xlarge:
+  cpu: '64'
+  mem: '976'
+f1.2xlarge:
+  cpu: '8'
+  mem: '122'
+g2.2xlarge:
+  cpu: '8'
+  mem: '15'
+g2.8xlarge:
+  cpu: '32'
+  mem: '60'
+hi1.4xlarge:
+  cpu: '16'
+  mem: '60.5'
+hs1.8xlarge:
+  cpu: '16'
+  mem: '117'
+i2.2xlarge:
+  cpu: '8'
+  mem: '61'
+i2.4xlarge:
+  cpu: '16'
+  mem: '122'
+i2.8xlarge:
+  cpu: '32'
+  mem: '244'
+i2.xlarge:
+  cpu: '4'
+  mem: '30.5'
+i3.16large:
+  cpu: '64'
+  mem: '488'
+i3.2xlarge:
+  cpu: '8'
+  mem: '61'
+i3.4xlarge:
+  cpu: '16'
+  mem: '122'
+i3.8xlarge:
+  cpu: '32'
+  mem: '244'
+i3.large:
+  cpu: '2'
+  mem: '15.25'
+i3.xlarge:
+  cpu: '4'
+  mem: '30.5'
+m1.large:
+  cpu: '2'
+  mem: '7.5'
+m1.medium:
+  cpu: '1'
+  mem: '3.75'
+m1.small:
+  cpu: '1'
+  mem: '1.7'
+m1.xlarge:
+  cpu: '4'
+  mem: '15'
+m2.2xlarge:
+  cpu: '4'
+  mem: '34.2'
+m2.4xlarge:
+  cpu: '8'
+  mem: '68.4'
+m2.xlarge:
+  cpu: '2'
+  mem: '17.1'
+m3.2xlarge:
+  cpu: '8'
+  mem: '30'
+m3.large:
+  cpu: '2'
+  mem: '7.5'
+m3.medium:
+  cpu: '1'
+  mem: '3.75'
+m3.xlarge:
+  cpu: '4'
+  mem: '15'
+m4.10xlarge:
+  cpu: '40'
+  mem: '160'
+m4.16xlarge:
+  cpu: '64'
+  mem: '256'
+m4.2xlarge:
+  cpu: '8'
+  mem: '32'
+m4.4xlarge:
+  cpu: '16'
+  mem: '64'
+m4.large:
+  cpu: '2'
+  mem: '8'
+m4.xlarge:
+  cpu: '4'
+  mem: '16'
+p2.16xlarge:
+  cpu: '64'
+  mem: '732'
+p2.8xlarge:
+  cpu: '32'
+  mem: '488'
+p2.xlarge:
+  cpu: '4'
+  mem: '61'
+r3.2xlarge:
+  cpu: '8'
+  mem: '61'
+r3.4xlarge:
+  cpu: '16'
+  mem: '122'
+r3.8xlarge:
+  cpu: '32'
+  mem: '244'
+r3.large:
+  cpu: '2'
+  mem: '15.25'
+r3.xlarge:
+  cpu: '4'
+  mem: '30.5'
+r4.16xlarge:
+  cpu: '64'
+  mem: '488'
+r4.2xlarge:
+  cpu: '8'
+  mem: '61'
+r4.4xlarge:
+  cpu: '16'
+  mem: '122'
+r4.8xlarge:
+  cpu: '32'
+  mem: '244'
+r4.large:
+  cpu: '2'
+  mem: '15.25'
+r4.xlarge:
+  cpu: '4'
+  mem: '30.5'
+t1.micro:
+  cpu: '1'
+  mem: '0.613'
+t2.2xlarge:
+  cpu: '8'
+  mem: '32'
+t2.large:
+  cpu: '2'
+  mem: '8'
+t2.medium:
+  cpu: '2'
+  mem: '4'
+t2.micro:
+  cpu: '1'
+  mem: '1'
+t2.nano:
+  cpu: '1'
+  mem: '0.5'
+t2.small:
+  cpu: '1'
+  mem: '2'
+t2.xlarge:
+  cpu: '4'
+  mem: '16'
+x1.16large:
+  cpu: '64'
+  mem: '976'
+x1.32xlarge:
+  cpu: '128'
+  mem: 1,952
+

@@ -1,0 +1,2 @@
+all:
+	./tools/update-yaml

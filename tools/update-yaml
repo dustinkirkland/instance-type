@@ -1,0 +1,5 @@
+#!/bin/sh
+
+for i in ./tab/*; do
+	./tools/tab2yaml $i > ./yaml/$(basename $i).yaml
+done
