@@ -15,7 +15,11 @@ This project exists in a common location so that a project like LXD, KVM, OpenSt
 For example, you can use LXD to easily create a new container instance whose performance profile matches an AWS m1.large (or any other Amazon instance type):
 
 ```
-$ lxc launch --type m1.large ubuntu:16.04
+$ lxc launch --type aws:m1.large ubuntu:16.04
+
+$ lxc launch --type gce:f1-micro images:centos/7
+
+$ lxc launch --type azure:A5 images:ubuntu/trusty
 ```
 
 ## Contributors
