@@ -21,13 +21,16 @@ f1.16xlarge	64	976
 f1.2xlarge	8	122
 g2.2xlarge	8	15
 g2.8xlarge	32	60
+g3.16xlarge	64	488
+g3.4xlarge	16	122
+g3.8xlarge	32	244
 hi1.4xlarge	16	60.5
 hs1.8xlarge	16	117
 i2.2xlarge	8	61
 i2.4xlarge	16	122
 i2.8xlarge	32	244
 i2.xlarge	4	30.5
-i3.16large	64	488
+i3.16xlarge	64	488
 i3.2xlarge	8	61
 i3.4xlarge	16	122
 i3.8xlarge	32	244
@@ -72,5 +75,5 @@ t2.micro	1	1
 t2.nano	1	0.5
 t2.small	1	2
 t2.xlarge	4	16
-x1.16large	64	976
+x1.16xlarge	64	976
 x1.32xlarge	128	1952
