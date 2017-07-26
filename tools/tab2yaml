@@ -11,6 +11,6 @@ with open(sys.argv[1]) as f:
 	for l in lines:
 		c = l.split()
 		types[c[0]] = {}
-		types[c[0]]["cpu"] = c[1]
-		types[c[0]]["mem"] = c[2]
+		types[c[0]]["cpu"] = float(c[1])
+		types[c[0]]["mem"] = float(c[2])
 print(yaml.dump(types, default_flow_style=False))

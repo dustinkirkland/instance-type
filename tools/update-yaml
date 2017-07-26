@@ -1,5 +1,6 @@
 #!/bin/sh
 
 for i in ./tab/*; do
+	[ "$(basename $i)" = "." ] && continue
 	./tools/tab2yaml $i > ./yaml/$(basename $i).yaml
 done
