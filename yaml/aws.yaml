@@ -67,6 +67,15 @@ g2.2xlarge:
 g2.8xlarge:
   cpu: 32.0
   mem: 60.0
+g3.16xlarge:
+  cpu: 64.0
+  mem: 488.0
+g3.4xlarge:
+  cpu: 16.0
+  mem: 122.0
+g3.8xlarge:
+  cpu: 32.0
+  mem: 244.0
 hi1.4xlarge:
   cpu: 16.0
   mem: 60.5
@@ -85,7 +94,7 @@ i2.8xlarge:
 i2.xlarge:
   cpu: 4.0
   mem: 30.5
-i3.16large:
+i3.16xlarge:
   cpu: 64.0
   mem: 488.0
 i3.2xlarge:
@@ -220,7 +229,7 @@ t2.small:
 t2.xlarge:
   cpu: 4.0
   mem: 16.0
-x1.16large:
+x1.16xlarge:
   cpu: 64.0
   mem: 976.0
 x1.32xlarge:
