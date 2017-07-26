@@ -26,6 +26,12 @@ $ lxc launch --type azure:A5 images:ubuntu/trusty
 
 Other cloud instance type contributions are welcome.  Please create a new tab-delimited file in the tab/ directory.  The first column is the instance type's name, the second column is the number of CPUs, and the third column is the memory allocation in GiB.
 
+## Information Sources
+
+ * https://aws.amazon.com/ec2/instance-types/
+ * https://cloud.google.com/compute/docs/machine-types
+ * https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-sizes-specs
+
 ## License
 
 Copyright 2017 @DustinKirkland
