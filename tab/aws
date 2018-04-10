@@ -10,6 +10,12 @@ c4.4xlarge	16	30
 c4.8xlarge	36	60
 c4.large	2	3.75
 c4.xlarge	4	7.5
+c5.18xlarge	72	144
+c5.2xlarge	8	16
+c5.4xlarge	16	32
+c5.9xlarge	36	72
+c5.large	2	4
+c5.xlarge	4	8
 cc2.8xlarge	32	60.5
 cg1.4xlarge	16	22.5
 cr1.8xlarge	32	244
