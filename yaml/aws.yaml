@@ -34,6 +34,24 @@ c4.large:
 c4.xlarge:
   cpu: 4.0
   mem: 7.5
+c5.18xlarge:
+  cpu: 72.0
+  mem: 144.0
+c5.2xlarge:
+  cpu: 8.0
+  mem: 16.0
+c5.4xlarge:
+  cpu: 16.0
+  mem: 32.0
+c5.9xlarge:
+  cpu: 36.0
+  mem: 72.0
+c5.large:
+  cpu: 2.0
+  mem: 4.0
+c5.xlarge:
+  cpu: 4.0
+  mem: 8.0
 cc2.8xlarge:
   cpu: 32.0
   mem: 60.5
