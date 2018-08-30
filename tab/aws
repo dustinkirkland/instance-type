@@ -81,5 +81,12 @@ t2.micro	1	1
 t2.nano	1	0.5
 t2.small	1	2
 t2.xlarge	4	16
+t3.nano	2	0.5
+t3.micro	2	1
+t3.small	2	2
+t3.medium	2	4
+t3.large	2	8
+t3.xlarge	4	16
+t3.2xlarge	8	32
 x1.16xlarge	64	976
 x1.32xlarge	128	1952

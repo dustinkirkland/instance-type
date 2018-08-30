@@ -247,6 +247,27 @@ t2.small:
 t2.xlarge:
   cpu: 4.0
   mem: 16.0
+t3.2xlarge:
+  cpu: 8.0
+  mem: 32.0
+t3.large:
+  cpu: 2.0
+  mem: 8.0
+t3.medium:
+  cpu: 2.0
+  mem: 4.0
+t3.micro:
+  cpu: 2.0
+  mem: 1.0
+t3.nano:
+  cpu: 2.0
+  mem: 0.5
+t3.small:
+  cpu: 2.0
+  mem: 2.0
+t3.xlarge:
+  cpu: 4.0
+  mem: 16.0
 x1.16xlarge:
   cpu: 64.0
   mem: 976.0
